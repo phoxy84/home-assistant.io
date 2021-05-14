@@ -134,6 +134,7 @@ The list with all known valid keys can be found [here](https://github.com/floria
 - TX-40DX600
 - TX-40DX700B
 - TX-42AS650
+- TX-43GX930W
 - TX-49DX650B
 - TX-50DX700B
 - TX-55ASM655
